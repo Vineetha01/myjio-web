@@ -1,0 +1,5 @@
+myjio\data\MemberListProducer.class
+myjio\util\Resources.class
+myjio\model\Member.class
+myjio\service\MemberRegistration.class
+myjio\data\MemberRepository.class

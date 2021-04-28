@@ -1,0 +1,4 @@
+myjio\controller\MemberController.class
+myjio\rest\JaxRsActivator.class
+myjio\rest\MemberResourceRESTService.class
+myjio\util\WebResources.class
